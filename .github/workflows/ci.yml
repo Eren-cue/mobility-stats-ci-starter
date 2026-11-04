@@ -26,3 +26,4 @@ jobs:
 
       - name: Check formatting
         run: uv run --locked ruff format --check .
+        
